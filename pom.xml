@@ -13,7 +13,7 @@
   <name>petclinic</name>
 
   <properties>
-    <sonar.host.url>https://34.125.111.52:9000/</sonar.host.url>
+    <sonar.host.url>http://34.125.111.52:9000/</sonar.host.url>
     <sonar.login>squ_a348353537cf748c73036315abb057a5fd3e4e24</sonar.login>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
