@@ -145,18 +145,6 @@
     </dependency>
 
   </dependencies>
-    <distributionManagement>
-      <repository>
-          <id>nexus</id>  
-          <name>Release Repos</name>
-          <url>http://34.125.221.176:8081/repository/first-release/</url>
-       </repository>
-      <snapshotRepository>
-          <id>nexus</id>
-          <name>Snapshot Repos</name>
-          <url>http://34.125.221.176:8081/repository/first-snapshot/</url>
-      </snapshotRepository>
-  </distributionManagement>
 
   <dependencyManagement>
     <dependencies>
